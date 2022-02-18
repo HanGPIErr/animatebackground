@@ -105,6 +105,6 @@
     }
     90%,100%
     {
-        transform: translateX(calc(-100vw + 200px)) rotateY(180deg);
+        transform: translateX(calc(-150vw + 200px)) rotateY(180deg);
     }
 }
